@@ -1,0 +1,4 @@
+To do list:
+判斷上傳時間 done 
+自動編譯(正則表示式尋找)
+自動跑程式(expect套件，正則表示式對應output)
